@@ -1,4 +1,3 @@
-# Siteleaf settings
 ---
 title: Sébastien Kuo | Localization Professional
 timezone: America/Los_Angeles
@@ -9,48 +8,30 @@ collections:
   uploads:
     title: Uploads
     output: true
-
-# Site
 repository: kid-pro-kuo/hello
 favicon: images/favicon.ico
-
-# Content configuration version
 version: 2
-
-# Personal info
 name: Sébastien Kuo
 email: sebastien@linguanaut.org
 website: www.linguanaut.org
-
-# Dark Mode (true/false/never)
 darkmode: true
-
-# Social links
 twitter_username: kuo
 github_username: kid-pro-kuo
 facebook_username: sebastien.kuo
 instagram_username: kid-pro-kuo
 linkedin_username: sebastienkuo
-
-# Additional icon links
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
   url: https://www.itsgoingto.be
-
-# Google Analytics and Tag Manager
-# google_analytics: "UA-00000000-0"
-
-# About Section
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
     - <a href="google.com">Links</a>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
 content:
 - title: Projects
   layout: list
@@ -178,26 +159,20 @@ content:
     Look at this cool image
     ![Trees](/images/landscape-trees.jpg "Trees")
 footer_show_references: true
-
-# Build settings
 remote_theme: sproogen/modern-resume-theme
-
 sass:
   sass_dir: _sass
   style: compressed
-
 plugins:
 - jekyll-seo-tag
-
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+exclude:
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+- lib/
+- scripts/
+- docker-compose.yml
