@@ -1,4 +1,3 @@
-# Siteleaf settings
 ---
 title: Sébastien Kuo | Localization Professional
 timezone: America/Los_Angeles
@@ -9,48 +8,31 @@ collections:
   uploads:
     title: Uploads
     output: true
-
-# Site
 repository: kid-pro-kuo/hello
 favicon: images/favicon.ico
-
-# Content configuration version
 version: 2
-
-# Personal info
 name: Sébastien Kuo
 email: sebastien@linguanaut.org
 website: www.linguanaut.org
-
-# Dark Mode (true/false/never)
 darkmode: true
-
-# Social links
 twitter_username: kuo
 github_username: kid-pro-kuo
 facebook_username: sebastien.kuo
 instagram_username: kid-pro-kuo
 linkedin_username: sebastienkuo
-
-# Additional icon links
 additional_links:
 - title: translation commons
   icon: fas fa-globe
   url: https://translationcommons.org
-
-# Google Analytics and Tag Manager
-google_analytics: "UA-173917516-1"
-
-# About Section
+google_analytics: UA-173917516-1
 about_profile_image: images/profile2.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Write an awesome description about yourself here, this supports markdown, so you can add [links](https://foobar.com) and highlight things <mark>like this</mark>.
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
     - <a href="google.com">Links</a>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
-
 content:
 - title: Projects
   layout: list
@@ -62,9 +44,12 @@ content:
     - title: sproogen/modern-resume-theme
       icon: fab fa-github
       url: github.com/sproogen/modern-resume-theme
-    quote: "This is probably one of the greatest apps ever created, if you don''t agree you''re probably wrong."
-    description: "I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I''m very proud of having this in my portfolio. If you don''t have a project as awesome as this I would advise you make one."
-
+    quote: This is probably one of the greatest apps ever created, if you don''t agree
+      you''re probably wrong.
+    description: I started this project as a way if learning <mark>React</mark> and
+      it has since grown into a fully fledged app. I have learned many skills through
+      this and been I''m very proud of having this in my portfolio. If you don''t
+      have a project as awesome as this I would advise you make one.
 - title: Experience
   layout: list
   content:
@@ -73,34 +58,45 @@ content:
     link: stubhub.com
     sub_title: Manager of Localization Engineering
     caption: December 2017 - August 2020
-    quote: "Solving 21st century problems by digging holes and making game changing products like the not a flamethrower"
-    description: "Every company needs its networks properly administered and The Boring Company is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies."
-
+    quote: Solving 21st century problems by digging holes and making game changing
+      products like the not a flamethrower
+    description: Every company needs its networks properly administered and The Boring
+      Company is no exception. Digging holes is hard and I play my part making sure
+      the whole company stays connected. I lead a team of 5 people and enjoy driving
+      the company to try new technologies.
   - layout: left
     title: StubHub, Inc.
     link: stubhub.com
     sub_title: Content Localization Manager
     caption: June 2015 - December 2017
-    quote: "Solving 21st century problems by digging holes and making game changing products like the not a flamethrower"
-
-    description: "Every company needs its networks properly administered and The Boring Company is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies."
-
+    quote: Solving 21st century problems by digging holes and making game changing
+      products like the not a flamethrower
+    description: Every company needs its networks properly administered and The Boring
+      Company is no exception. Digging holes is hard and I play my part making sure
+      the whole company stays connected. I lead a team of 5 people and enjoy driving
+      the company to try new technologies.
   - layout: left
     title: Coursera
     link: coursera.org
     sub_title: Localization Program Manager
     caption: March 2014 - June 2015
-    quote: "Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*"
-    description: "Every company needs its networks properly administered and The Boring Company is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies."
-
+    quote: Solving 21st century problems by diging holes and making game changing
+      products like the *not a flamethrower*
+    description: Every company needs its networks properly administered and The Boring
+      Company is no exception. Digging holes is hard and I play my part making sure
+      the whole company stays connected. I lead a team of 5 people and enjoy driving
+      the company to try new technologies.
   - layout: left
     title: Twitter, Inc.
     link: twitter.com
     sub_title: Localization Project Manager, Mobile Platforms
     caption: June 2012 - March 2014
-    quote: "Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*"
-    description: "Every company needs its networks properly administered and The Boring Company is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies."
-
+    quote: Solving 21st century problems by diging holes and making game changing
+      products like the *not a flamethrower*
+    description: Every company needs its networks properly administered and The Boring
+      Company is no exception. Digging holes is hard and I play my part making sure
+      the whole company stays connected. I lead a team of 5 people and enjoy driving
+      the company to try new technologies.
 - title: Education
   layout: list
   content:
@@ -108,7 +104,10 @@ content:
     title: Vrije Universiteit Brussel
     caption: 2007 - 2008
     sub_title: MA, Comparative Linguistics
-    quote: "Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world."
+    quote: Established in 1636, Harvard is the oldest higher education institution
+      in the United States, and is widely regarded in terms of its influence, reputation,
+      and academic pedigree as a leading university in not just the US but also the
+      world.
     description: |
       During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -117,7 +116,10 @@ content:
     title: The George Washington University
     caption: 2003 - 2007
     sub_title: BA, International Affairs
-    quote: "Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world."
+    quote: Established in 1636, Harvard is the oldest higher education institution
+      in the United States, and is widely regarded in terms of its influence, reputation,
+      and academic pedigree as a leading university in not just the US but also the
+      world.
     description: |
       During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -134,26 +136,20 @@ content:
     Look at this cool image
     ![Trees](/images/landscape-trees.jpg "Trees")
 footer_show_references: true
-
-# Build settings
 remote_theme: sproogen/modern-resume-theme
-
 sass:
   sass_dir: _sass
   style: compressed
-
 plugins:
 - jekyll-seo-tag
-
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+exclude:
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+- lib/
+- scripts/
+- docker-compose.yml
