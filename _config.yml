@@ -1,57 +1,34 @@
-# Site
+---
+title: Globalization Partner / Product Development Ally / Customer Advocate
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
-
-# Content configuration version
 version: 2
-
-# Personal info
 name: Sébastien Kuo
-title: Globalization Partner / Product Development Ally / Customer Advocate
 email: sebastien@linguanaut.org
 website: www.linguanaut.org
-
-# Dark Mode (true/false/never)
 darkmode: true
-
-# Social links
 twitter_username: kuo
-github_username:  kid-pro-kuo
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
+github_username: kid-pro-kuo
 facebook_username: sebastien.kuo
-# flickr_username: jekyll
 instagram_username: kid-pro-kuo
 linkedin_username: sebastienkuo
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-# About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -154,14 +131,9 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
-
-# Build settings
 remote_theme: mmistakes/jekyll-theme-basically-basic
-
 sass:
   sass_dir: _sass
   style: compressed
-
 plugins:
- - jekyll-seo-tag
+- jekyll-seo-tag
