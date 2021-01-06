@@ -8,14 +8,10 @@ collections:
   uploads:
     title: Uploads
     output: true
-repository: kid-pro-kuo/hello
-<<<<<<< HEAD
+repository: kid-pro-kuo/kid-pro-kuo.github.io
 favicon: assets/favicon.ico
 
 # Content configuration version
-=======
-favicon: images/favicon.ico
->>>>>>> ae338c0a9b5916a9d81248b9fb4c4a226e302cac
 version: 2
 name: Sébastien Kuo
 email: sebastien@linguanaut.org
@@ -30,7 +26,6 @@ additional_links:
 - title: translation commons
   icon: fas fa-globe
   url: https://translationcommons.org
-<<<<<<< HEAD
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -42,12 +37,6 @@ google_analytics: "UA-173917516-1"
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-=======
-google_analytics: UA-173917516-1
-about_profile_image: images/profile2.jpg
-about_content: |
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](https://foobar.com) and highlight things <mark>like this</mark>.
->>>>>>> ae338c0a9b5916a9d81248b9fb4c4a226e302cac
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
