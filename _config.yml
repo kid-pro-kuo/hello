@@ -1,7 +1,7 @@
 # Siteleaf settings
 ---
 title: Sébastien Kuo | Localization Professional
-timezone: UTC-8
+timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
