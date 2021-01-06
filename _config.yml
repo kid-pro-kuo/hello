@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-repository: kid-pro-kuo/kid-pro-kuo.github.io
+repository: kid-pro-kuo/kid-pro-kuo.github.io/
 favicon: assets/favicon.ico
 
 # Content configuration version
@@ -16,7 +16,7 @@ version: 2
 name: Sébastien Kuo
 email: sebastien@linguanaut.org
 website: www.linguanaut.org
-darkmode: true
+darkmode: false
 twitter_username: kuo
 github_username: kid-pro-kuo
 facebook_username: sebastien.kuo
@@ -50,9 +50,9 @@ content:
     title: Super awesome project
     link: github.com/sproogen
     additional_links:
-    - title: sproogen/modern-resume-theme
+    - title: github link 1
       icon: fab fa-github
-      url: github.com/sproogen/modern-resume-theme
+      url: github.com/
     quote: This is probably one of the greatest apps ever created, if you don''t agree
       you''re probably wrong.
     description: I started this project as a way if learning <mark>React</mark> and
@@ -145,7 +145,7 @@ content:
     Look at this cool image
     ![Trees](/images/landscape-trees.jpg "Trees")
 footer_show_references: true
-remote_theme: sproogen/modern-resume-theme
+remote_theme: mmistakes/jekyll-theme-basically-basic
 sass:
   sass_dir: _sass
   style: compressed
