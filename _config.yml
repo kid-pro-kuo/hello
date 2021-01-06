@@ -14,7 +14,7 @@ version: 2
 name: Sébastien Kuo
 email: sebastien@linguanaut.org
 website: www.linguanaut.org
-darkmode: false
+darkmode: true
 twitter_username: kuo
 github_username: kid-pro-kuo
 facebook_username: sebastien.kuo
@@ -137,7 +137,7 @@ content:
     Look at this cool image
     ![Trees](/images/landscape-trees.jpg "Trees")
 footer_show_references: true
-remote_theme: mmistakes/jekyll-theme-basically-basic
+remote_theme: sproogen/modern-resume-theme
 sass:
   sass_dir: _sass
   style: compressed
