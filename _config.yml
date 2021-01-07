@@ -1,5 +1,5 @@
 ---
-title: Sébastien Kuo | Localization Professional
+title: Sébastien Kuo, PgMP | Localization Professional
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -72,10 +72,16 @@ content:
     caption: June 2015 - December 2017
     quote: Solving 21st century problems by digging holes and making game changing
       products like the not a flamethrower
-    description: Every company needs its networks properly administered and The Boring
-      Company is no exception. Digging holes is hard and I play my part making sure
-      the whole company stays connected. I lead a team of 5 people and enjoy driving
-      the company to try new technologies.
+    description: |
+      - Developed and spearheaded localization strategy to drive international user growth metrics
+      - Launched and supported a volunteer translator community
+      - Drove localization project management incl. scoping, budgeting, resource allocation, scheduling, QA and risk management
+      - Developed and enforced company-wide translation content quality control processes
+      - Managed localization finance and vendor relationships
+      - Forecast localization volume and budget needs
+      - Collaborated with Product and Engineering teams to drive localization tooling development
+      - Collaborated with Business Development and Data teams to influence localization strategy
+      - Worked with external partners to solicit feedback, improve translation processes, and communicate the value of localization
   - layout: left
     title: Coursera
     link: coursera.org
@@ -83,10 +89,9 @@ content:
     caption: March 2014 - June 2015
     quote: Solving 21st century problems by diging holes and making game changing
       products like the *not a flamethrower*
-    description: Every company needs its networks properly administered and The Boring
-      Company is no exception. Digging holes is hard and I play my part making sure
-      the whole company stays connected. I lead a team of 5 people and enjoy driving
-      the company to try new technologies.
+    description: |
+      - Developed and spearheaded localization strategy to drive international user growth metrics
+      - Launched and supported a volunteer translator community
   - layout: left
     title: Twitter, Inc.
     link: twitter.com
@@ -94,10 +99,9 @@ content:
     caption: June 2012 - March 2014
     quote: Solving 21st century problems by diging holes and making game changing
       products like the *not a flamethrower*
-    description: Every company needs its networks properly administered and The Boring
-      Company is no exception. Digging holes is hard and I play my part making sure
-      the whole company stays connected. I lead a team of 5 people and enjoy driving
-      the company to try new technologies.
+    description: |
+      - Developed and spearheaded localization strategy to drive international user growth metrics
+      - Launched and supported a volunteer translator community
 - title: Education
   layout: list
   content:
