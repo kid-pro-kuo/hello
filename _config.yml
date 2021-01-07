@@ -58,9 +58,10 @@ content:
     quote: 'At vero eos et accusamus et iusto odio dignissimos ducimus
 
 '
-    description: |
-      - Qui blanditiis praesentium voluptatum deleniti atque corrupti
-      - Quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident
+    description:
+      Qui blanditiis praesentium voluptatum deleniti atque corrupti
+      
+      Quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident
   - layout: left
     title: StubHub, Inc.
     link: stubhub.com
@@ -70,15 +71,23 @@ content:
 
 '
     description: |
-      - Developed and spearheaded localization strategy to drive international user growth metrics
-      - Launched and supported a volunteer translator community
-      - Drove localization project management incl. scoping, budgeting, resource allocation, scheduling, QA and risk management
-      - Developed and enforced company-wide translation content quality control processes
-      - Managed localization finance and vendor relationships
-      - Forecast localization volume and budget needs
-      - Collaborated with Product and Engineering teams to drive localization tooling development
-      - Collaborated with Business Development and Data teams to influence localization strategy
-      - Worked with external partners to solicit feedback, improve translation processes, and communicate the value of localization
+      Developed and spearheaded localization strategy to drive international user growth metrics
+      
+      Launched and supported a volunteer translator community
+      
+      Drove localization project management incl. scoping, budgeting, resource allocation, scheduling, QA and risk management
+      
+      Developed and enforced company-wide translation content quality control processes
+      
+      Managed localization finance and vendor relationships
+      
+      Forecast localization volume and budget needs
+      
+      Collaborated with Product and Engineering teams to drive localization tooling development
+      
+      Collaborated with Business Development and Data teams to influence localization strategy
+      
+      Worked with external partners to solicit feedback, improve translation processes, and communicate the value of localization
   - layout: left
     title: Coursera
     link: coursera.org
