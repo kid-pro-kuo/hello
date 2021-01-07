@@ -28,29 +28,20 @@ gtm: GTM-WPH29NB
 google_analytics: UA-173917516-1
 about_profile_image: images/profile.jpg
 about_content: |
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 content:
-- title: Projects
+- title: Projects and Publications
   layout: list
   content:
   - layout: top-middle
-    title: Super awesome project
-    link: github.com/sproogen
+    title: Lorem ipsum dolor sit amet
+    link: google.com/
     additional_links:
     - title: github link 1
       icon: fab fa-github
       url: github.com/
-    quote: This is probably one of the greatest apps ever created, if you don''t agree
-      you''re probably wrong.
-    description: I started this project as a way if learning <mark>React</mark> and
-      it has since grown into a fully fledged app. I have learned many skills through
-      this and been I''m very proud of having this in my portfolio. If you don''t
-      have a project as awesome as this I would advise you make one.
+    quote: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 - title: Experience
   layout: list
   content:
@@ -92,6 +83,12 @@ content:
     description: |
       - Developed and spearheaded localization strategy to drive international user growth metrics
       - Launched and supported a volunteer translator community
+      - Drove localization project management incl. scoping, budgeting, resource allocation, scheduling, QA and risk management
+      - Developed and enforced company-wide translation content quality control processes
+      - Managed localization finance and vendor relationships. Forecast localization volume and budget needs
+      - Collaborated with Product and Engineering teams to drive localization tooling development
+      - Collaborated with Business Development and Data teams to influence localization strategy
+      - Worked with external partners to solicit feedback, improve translation processes, and communicate the value of localization
   - layout: left
     title: Twitter, Inc.
     link: twitter.com
@@ -100,8 +97,65 @@ content:
     quote: Solving 21st century problems by diging holes and making game changing
       products like the *not a flamethrower*
     description: |
-      - Developed and spearheaded localization strategy to drive international user growth metrics
-      - Launched and supported a volunteer translator community
+      - Championed the needs of Twitter’s growing international communities
+      - Managed the localization for mobile products : iOS, Android, mobile web, SMS, OEM partnerships
+      - Injected international user perspective throughout the product development cycle
+      - Reviewed and advised engineering and product teams on internationalization best practices
+      - Determined the most appropriate localization solution for each product and related marketing assets, sourcing from community translation and vendor resources
+      - Created a linguistic QA testing cadence (with test plans) via community or third-party testing vendors
+      - Triaged international user feedback and provided regular reports to product managers
+      - Gathered and presented weekly metrics on international user satisfaction
+      - Created localization specifications and guidelines for OEM partner developers
+      - Created product requirements and developed improvements to internal translation platform
+  - layout: left
+    title: Etsy, Inc.
+    link: etsy.com
+    sub_title: Localization Project Manager
+    caption: February 2010 - June 2012
+    quote: The limits of my language mean the limits of my world.
+    description: |
+      - Drafted and implemented localization plan for successive language support of Etsy.com
+      - Managed a team of community managers and linguists
+      - Defined localization workflows and standards for Etsy including delivery requirements and LQA
+      - Designed internationalization and localization processes into the product development cycle
+      - Triaged localization bugs and deploy fixes where appropriate
+      - Maintained localization quality through product development oversight and LQA tests
+      - Defined product requirements and oversee feature improvements to internal translation tools
+      - Gathered metrics to determine future localization needs and measure effectiveness of current efforts
+  - layout: left
+    title: Etsy, Inc.
+    link: etsy.com
+    sub_title: Lead Trust & Safety Agent
+    caption: July 2009 - February 2010
+    quote: Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in.
+    description: |
+      - Identified and reduced ecommerce fraud within an online marketplace through behavioral targeting
+      - Interpreted, influenced, and applied policy to member / transaction disputes
+      - Researched competitive practices and industry standards in order to consistently improve marketplace trust
+      - Drove policy changes and trust building initiatives based on customer feedback with product and legal teams
+      - Specced and managed the creation and improvement of trust and safety backend and frontend tools with engineering team
+      - Built a Trust & Safety team through data driven feedback and evangelizing customer needs within the company’s mission
+  - layout: left
+    title: Etsy, Inc.
+    link: etsy.com
+    sub_title: Customer Support Representative
+    caption: January 2009 - July 2009
+    quote: He who works with his hands and his head and his heart is an artist.
+    description: |
+      - Educated members on the basics of using Etsy.com as well as tips to improve productivity or user experience
+      - Helped to create a curriculum as well as mentored new customer support representatives
+      - Promoted metrics gathering tools in order to drive rep efficiency and customer satisfaction perceptions
+      - Handled large volumes of inbound customer support requests via email and live chat
+  - layout: left
+    title: European Parliament
+    link: europarl.europa.eu
+    sub_title: Research Assistant for the RH Timothy Kirkhope, MEP
+    caption: January 2006 - June 2008
+    quote: _In varietate concordia_ | United in diversity
+    description: |
+      - Provided administrative support to the office of the MEP
+      - Drafted responses to all constituents’ correspondence regarding personal and party motivations in a wide range of policymaking areas
+      - Researched and drafted parliamentary questions, motions and reports in MEP’s areas of concern
 - title: Education
   layout: list
   content:
@@ -109,37 +163,19 @@ content:
     title: Vrije Universiteit Brussel
     caption: 2007 - 2008
     sub_title: MA, Comparative Linguistics
-    quote: Established in 1636, Harvard is the oldest higher education institution
-      in the United States, and is widely regarded in terms of its influence, reputation,
-      and academic pedigree as a leading university in not just the US but also the
-      world.
-    description: |
-      During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-      I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
   - layout: left
     title: The George Washington University
     caption: 2003 - 2007
     sub_title: BA, International Affairs
-    quote: Established in 1636, Harvard is the oldest higher education institution
-      in the United States, and is widely regarded in terms of its influence, reputation,
-      and academic pedigree as a leading university in not just the US but also the
-      world.
-    description: |
-      During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-      I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-- title: A Little More About Me
+- title: More About Me
   layout: text
   content: |
-    Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur:
     - Rock climbing
     - Gaming
     - Knitting
     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-    Look at this cool image
-    ![Trees](/images/landscape-trees.jpg "Trees")
 footer_show_references: true
 remote_theme: sproogen/modern-resume-theme
 sass:
