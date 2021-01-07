@@ -27,8 +27,14 @@ additional_links:
 gtm: GTM-WPH29NB
 google_analytics: UA-173917516-1
 about_profile_image: images/profile.jpg
-about_content: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+about_content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
+  aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+  nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+  officia deserunt mollit anim id est laborum.
+
+'
 content:
 - title: Projects and Publications
   layout: list
@@ -40,8 +46,11 @@ content:
     - title: github link 1
       icon: fab fa-github
       url: github.com/
-    quote: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    quote: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+      ut aliquip ex ea commodo consequat.
+    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+      sunt in culpa qui officia deserunt mollit anim id est laborum.
 - title: Experience
   layout: list
   content:
@@ -127,7 +136,8 @@ content:
     link: etsy.com
     sub_title: Lead Trust & Safety Agent
     caption: July 2009 - February 2010
-    quote: Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in.
+    quote: Your assumptions are your windows on the world. Scrub them off every once
+      in a while, or the light won't come in.
     description: |
       - Identified and reduced ecommerce fraud within an online marketplace through behavioral targeting
       - Interpreted, influenced, and applied policy to member / transaction disputes
@@ -175,7 +185,6 @@ content:
     - Gaming
     - Knitting
     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
 footer_show_references: true
 remote_theme: sproogen/modern-resume-theme
 sass:
