@@ -27,7 +27,6 @@ about_content: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 content:
 - title: Projects and Publications
   layout: list
@@ -39,10 +38,15 @@ content:
     - title: github link 1
       icon: fab fa-github
       url: github.com/
-    quote: >
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    description: |
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    quote: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+      ut aliquip ex ea commodo consequat.
+
+'
+    description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+      sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+'
 - title: Experience
   layout: list
   content:
@@ -51,8 +55,9 @@ content:
     link: stubhub.com
     sub_title: Manager of Localization Engineering
     caption: December 2017 - August 2020
-    quote: >
-      At vero eos et accusamus et iusto odio dignissimos ducimus
+    quote: 'At vero eos et accusamus et iusto odio dignissimos ducimus
+
+'
     description: |
       - Qui blanditiis praesentium voluptatum deleniti atque corrupti
       - Quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident
@@ -61,8 +66,9 @@ content:
     link: stubhub.com
     sub_title: Content Localization Manager
     caption: June 2015 - December 2017
-    quote: >
-      Qui blanditiis praesentium voluptatum deleniti atque corrupti
+    quote: 'Qui blanditiis praesentium voluptatum deleniti atque corrupti
+
+'
     description: |
       - Developed and spearheaded localization strategy to drive international user growth metrics
       - Launched and supported a volunteer translator community
@@ -78,8 +84,10 @@ content:
     link: coursera.org
     sub_title: Localization Program Manager
     caption: March 2014 - June 2015
-    quote: >
-      Quos dolores et quas molestias excepturi sint, obcaecati cupiditate non provident
+    quote: 'Quos dolores et quas molestias excepturi sint, obcaecati cupiditate non
+      provident
+
+'
     description: |
       - Developed and spearheaded localization strategy to drive international user growth metrics
       - Launched and supported a volunteer translator community
@@ -94,8 +102,9 @@ content:
     link: twitter.com
     sub_title: Localization Project Manager, Mobile Platforms
     caption: June 2012 - March 2014
-    quote: >
-      At vero eos et accusamus et iusto odio dignissimos ducimus
+    quote: 'At vero eos et accusamus et iusto odio dignissimos ducimus
+
+'
     description: |
       - Championed the needs of Twitter’s growing international communities
       - Managed the localization for mobile products : iOS, Android, mobile web, SMS, OEM partnerships
@@ -112,8 +121,9 @@ content:
     link: etsy.com
     sub_title: Localization Project Manager
     caption: February 2010 - June 2012
-    quote: >
-      The limits of my language mean the limits of my world.
+    quote: 'The limits of my language mean the limits of my world.
+
+'
     description: |
       - Drafted and implemented localization plan for successive language support of Etsy.com
       - Managed a team of community managers and linguists
@@ -128,8 +138,10 @@ content:
     link: etsy.com
     sub_title: Lead Trust & Safety Agent
     caption: July 2009 - February 2010
-    quote: >
-      Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in.
+    quote: 'Your assumptions are your windows on the world. Scrub them off every once
+      in a while, or the light won''t come in.
+
+'
     description: |
       - Identified and reduced ecommerce fraud within an online marketplace through behavioral targeting
       - Interpreted, influenced, and applied policy to member / transaction disputes
@@ -142,8 +154,9 @@ content:
     link: etsy.com
     sub_title: Customer Support Representative
     caption: January 2009 - July 2009
-    quote: >
-      He who works with his hands and his head and his heart is an artist.
+    quote: 'He who works with his hands and his head and his heart is an artist.
+
+'
     description: |
       - Educated members on the basics of using Etsy.com as well as tips to improve productivity or user experience
       - Helped to create a curriculum as well as mentored new customer support representatives
@@ -154,8 +167,9 @@ content:
     link: europarl.europa.eu
     sub_title: Research Assistant for the RH Timothy Kirkhope, MEP
     caption: January 2006 - June 2008
-    quote: >
-      _In varietate concordia_ | United in diversity
+    quote: '_In varietate concordia_ | United in diversity
+
+'
     description: |
       - Provided administrative support to the office of the MEP
       - Drafted responses to all constituents’ correspondence regarding personal and party motivations in a wide range of policymaking areas
