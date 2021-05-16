@@ -4,11 +4,11 @@ timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
-    output: true
+    output: false
   uploads:
     title: Uploads
-    output: true
-repository: kid-pro-kuo/kid-pro-kuo.github.io/
+    output: false
+repository: kid-pro-kuo/hello/
 favicon: assets/favicon.ico
 version: 2
 name: Sébastien Kuo
